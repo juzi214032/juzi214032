@@ -7,7 +7,7 @@
 [![juzi214032@qq.com](https://img.shields.io/static/v1?label=邮箱&message=%20&color=blue&logo=gmail&style=flat-square&logoColor=white)](mailto:juzi214032@qq.com)
   
   
-👨‍💻 A Java developer
+👨‍💻 A Java developer  
 👨‍🎓 Studying Software Engineering here in CQUPT  
 🚧 **Current Project:** [OERP](https://github.com/juzi214032/OERP)
 
