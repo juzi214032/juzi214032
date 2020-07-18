@@ -2,7 +2,7 @@
 
 ### Hi! I'm Juzi :lemon:
 
-[![juzibiji.top](https://img.shields.io/static/v1?label=个人博客&message=juzibiji.top&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.juzibiji.top/)
+[![juzibiji.top](https://img.shields.io/static/v1?label=博客&message=juzibiji.top&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.juzibiji.top/)
 [![公众号](https://img.shields.io/static/v1?label=公众号&message=是小桔啦&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://img.juzibiji.top/20200608015057.png)
 [![juzi214032@qq.com](https://img.shields.io/static/v1?label=邮箱&message=juzi214032@qq.com&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:juzi214032@qq.com)
   
