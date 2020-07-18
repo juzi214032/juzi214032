@@ -10,5 +10,3 @@
 👨‍💻 A Java developer  
 👨‍🎓 Studying Software Engineering here in CQUPT  
 🚧 **Current Project:** [OERP](https://github.com/juzi214032/OERP)
-
-⭐️ From [Juzi](https://github.com/juz214032)
