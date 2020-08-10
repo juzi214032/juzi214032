@@ -9,4 +9,4 @@
   
 👨‍💻 A Java developer  
 👨‍🎓 Studying Software Engineering here in CQUPT  
-🚧 **Current Project:** [OERP](https://github.com/juzi214032/OERP)
+🚧 **Current Project:** [Lin CMS](https://github.com/TaleLin/lin-cms-spring-boot)
