@@ -8,5 +8,5 @@
   
   
 👨‍💻 A Java developer  
-👨‍🎓 Studying Software Engineering here in CQUPT.
+👨‍🎓 Studying Software Engineering here in CQUPT
 🚧 **Current Project:** [Lin CMS](https://github.com/TaleLin/lin-cms-spring-boot)、[Lin UI](https://github.com/TaleLin/lin-ui)
